@@ -1,0 +1,113 @@
+@media screen and (min-width: 854px) and (max-width: 1049px){
+    .shop-item__container {
+        width: 30%;
+        padding: 5px 0;
+        box-sizing: border-box;}
+
+    .presentation__text {
+        width: 60%;}
+
+    .good__presentation {
+        height: 450px;}
+
+    .good-btn {
+        margin: 20px 0 0 55%;}
+
+    /*SCHOOL*/
+
+    .school__navigation {
+        width: 200px;}
+
+    .main__scheme {
+        background-size: 150%;}
+
+    .header__caption {
+        margin-top: -50px;}
+
+    .section--one {
+        background: url(../assets/pictures/thirdlesson/decor/tresh/task_tabel.svg) no-repeat 20% 30%,
+        url(../assets/pictures/thirdlesson/decor/tresh/folders.svg) no-repeat 70% 85%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper3.svg) no-repeat 10% 80%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper2.svg) no-repeat 90% 90%,
+        url(../assets/pictures/thirdlesson/kom/middlegreen.svg) no-repeat 0 0;
+        background-size: 30%, 20%, 20%, 20%, 100%;}
+
+    .article-table-canvas {
+        width: 300px;
+        float: right;
+        padding: 0;
+        margin: -390px -50px 0 0;}
+
+    .section--two {
+        background: url(../assets/pictures/thirdlesson/decor/tresh/plant1.svg) no-repeat 40% 75%,
+        url(../assets/pictures/thirdlesson/kom/middleyellow.svg) no-repeat 0 0;
+        background-size: 10%, 100%;}
+
+    .article-table-easel {
+        width: 350px;
+        padding-top: 150px;}
+
+    .article-illustration--two {
+        float: right;
+        padding-top: 0;
+        margin: -300px -30px 0 0;}
+
+    .section--three {
+        background: url(../assets/pictures/thirdlesson/decor/tresh/kit.svg) no-repeat 50% 95%,
+        url(../assets/pictures/thirdlesson/decor/tresh/kit2.svg) no-repeat 65% 85%,
+        url(../assets/pictures/thirdlesson/decor/tresh/cupboard1.svg) no-repeat 50% 78%,
+        url(../assets/pictures/thirdlesson/decor/tresh/task_tabel.svg) no-repeat 20% 30%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper3.svg) no-repeat 100% 100%,
+        url(../assets/pictures/thirdlesson/decor/tresh/bin.svg) no-repeat 10% 85%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper2.svg) no-repeat 25% 85%,
+        url(../assets/pictures/thirdlesson/kom/middlegreen.svg) no-repeat 0 0;
+        background-size: 10%, 15%, 20%, 30%, 20%, 10%, 20%, 100%;}
+
+    .article-table-canvas-three {
+        float: right;
+        padding-top: 0;
+        margin: -390px -50px 0 0;}
+
+    .section--for{
+        background: url(../assets/pictures/thirdlesson/decor/tresh/plant2.svg) no-repeat 60% 75%,
+        url(../assets/pictures/thirdlesson/decor/tresh/task_tabel-2.svg) no-repeat 70% 35%,
+        url(../assets/pictures/thirdlesson/kom/middleyellow.svg) no-repeat 0 0;
+        background-size: 13%, 35%, 100%;}
+
+    .section--for__images {
+        margin: 90px -20px 0 0;}
+
+    .section--five {
+        background: url(../assets/pictures/thirdlesson/decor/tresh/kit3.svg) no-repeat 20% 100%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper2.svg) no-repeat 90% 100%,
+        url(../assets/pictures/thirdlesson/decor/tresh/paper1.svg) no-repeat 70% 90%,
+        url(../assets/pictures/thirdlesson/decor/tresh/kit4.svg) no-repeat 60% 80%,
+        url(../assets/pictures/thirdlesson/kom/middlegreen.svg) no-repeat 0 0;
+        background-size: 13%, 20%, 20%, 15%, 100%;}
+
+    .article-table-canvas--five {
+        margin: -500px -50px 0 0; }
+
+    .section--six {
+        background: url(../assets/pictures/thirdlesson/kom/middleyellow.svg) no-repeat 0 0;
+        background-size: 100%;}
+
+    .article-illustration--six {
+        width: 320px;
+        padding-top: 200px;}
+
+    .article-table-easel--six {
+        margin-top: -470px;
+        width: 350px;}
+
+    .car-box {
+        width: 650px;
+        margin-left: 0;}
+
+    .bath {
+        left: 212px;}
+
+    .bath:nth-child(2) {
+        left: 565px;
+    }
+}

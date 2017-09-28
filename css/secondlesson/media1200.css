@@ -1,0 +1,17 @@
+@media screen and (min-width: 1200px) {
+    .success__loser {
+    }
+
+    .loser__texts {
+        font-size: 21px;
+    }
+
+    .success-blink {
+        margin: 0 0 -20px 83%;
+    }
+
+    .sucess__winner {
+        margin-top: -140px;
+    }
+
+}

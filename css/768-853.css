@@ -1,0 +1,45 @@
+@media screen and (min-width: 768px) and (max-width: 853px){
+
+    .basic__container {
+        float: none;
+        margin: 0 auto;
+        width: 90%;}
+
+    .other-info__container {
+        float: none;
+        margin: 0 auto;
+        width: 90%;}
+
+    .shop-item__container {
+        width: 30%;
+        padding: 5px 0;
+        box-sizing: border-box;}
+
+    .presentation-img {
+        float: none;}
+
+    .presentation__text {
+        width: 95%;}
+
+    .navigation-item {
+        padding: 14px 1%;}
+
+    .school__body {
+        width: 98%;
+        margin: 0 auto;
+        float: none;}
+
+    .fl-header {
+        background: url("../assets/pictures/firstlesson/tree-left.svg")no-repeat 0 70%,
+        url("../assets/pictures/firstlesson/fl-home.svg") no-repeat 100% 10%,
+        url("../assets/pictures/firstlesson/bgtop3.svg") no-repeat 0 102%,
+        url("../assets/pictures/firstlesson/bgtop1.svg") no-repeat 0 70%,
+        #bdeff2 url("../assets/pictures/firstlesson/bgtop2.svg") no-repeat 0 50%;
+        background-size: 300px, 400px, 100%, 100%, 100%;}
+
+    .main__scheme {
+        background-size: 120%;}
+
+    .user__info {
+        width: 80%;}
+}

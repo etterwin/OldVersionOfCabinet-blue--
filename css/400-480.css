@@ -1,0 +1,9 @@
+@media screen and (min-width: 400px) and (max-width: 480px) {
+    .fl-header {
+        background: url("../assets/pictures/firstlesson/tree-left.svg")no-repeat -20% 60%,
+        url("../assets/pictures/firstlesson/fl-home.svg") no-repeat 140% -30%,
+        url("../assets/pictures/firstlesson/bgtop3.svg") no-repeat 0 440px,
+        url("../assets/pictures/firstlesson/bgtop1.svg") no-repeat 0 310px,
+        #bdeff2 url("../assets/pictures/firstlesson/bgtop2.svg") no-repeat 0 250px;
+        background-size: 250px, 350px, 100%, 100%, 100%;}
+}
